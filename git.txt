@@ -16,8 +16,7 @@ Para tener un fluljo de trabajo con git tenemos que seguir estos paso
             El comando es (git commit -m "") en las comillas va el mensaje que tendra un sentido para que los otros developers de tu grupo lo entinedan.
 
         * SERVER
-            Es donde se guarda el/los archivo/s el cual nosotros estamos totalmente seguros que esta guardado sin negun fallos y teniendo en cuenta que ha pasado los cuatro pasos declarados anteriormente.
-
+            Es donde se guarda el/los archivo/s el cual nosotros estamos totalmente seguros 
 
 
                                                         TIPOS DE COMANDO EN GIT
@@ -25,6 +24,8 @@ Para tener un fluljo de trabajo con git tenemos que seguir estos paso
 git branch : sirve para ver las ramas de trabajo que existen.
 git branch "" : sirve para craer una nueva rama de trabajo.
 rm : sirve para eliminar un archivo, lo cual se tendra que add despues de eliminarlo.
+git restore --staged nombre de archivo : sirve para sacar del stage el archivo y prhiibir que siga al siguiente paso que es commit.
+git restore : sirve para recuperar un archivo eliminado.
 
 
 
