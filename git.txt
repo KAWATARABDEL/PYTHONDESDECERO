@@ -17,4 +17,12 @@ Para tener un fluljo de trabajo con git tenemos que seguir estos paso
 
         * SERVER
             Es donde se guarda el/los archivo/s el cual nosotros estamos totalmente seguros que esta guardado sin negun fallos y teniendo en cuenta que ha pasado los cuatro pasos declarados anteriormente.
-            
+
+
+
+                                                        TIPOS DE COMANDO EN GIT
+
+git branch : sirve para ver las ramas de trabajo que existen.
+git branch "" : sirve para craer una nueva rama de trabajo.
+
+
