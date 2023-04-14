@@ -29,7 +29,9 @@ git restore : sirve para recuperar un archivo eliminado.
 mv : sirve para renumbrar un archivo, el cula tenemos que confirmar en un futuro.
 git diff : Muestra todos los cambios que hemos echo la capa de nuestro computador.
 git diff --staged : muestra los cambios que hemos hecho sobre un archivo en la capa de stage.
- 
+git log --oneline : para ver los commit que hemos ido haciendo. esto sirve para facilitar mi trabajo y los de tu grupo.
+
+
 
 
 
