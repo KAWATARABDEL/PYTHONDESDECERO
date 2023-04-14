@@ -24,5 +24,7 @@ Para tener un fluljo de trabajo con git tenemos que seguir estos paso
 
 git branch : sirve para ver las ramas de trabajo que existen.
 git branch "" : sirve para craer una nueva rama de trabajo.
+rm : sirve para eliminar un archivo, lo cual se tendra que add despues de eliminarlo.
+
 
 
