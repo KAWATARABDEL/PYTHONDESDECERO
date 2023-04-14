@@ -11,5 +11,10 @@ Para tener un fluljo de trabajo con git tenemos que seguir estos paso
             es donde se guardan los archivos que nosotros etamos seguros que vamos a dejar pasar. 
             Pero tambien los podemos eliminar se queremos o mejor creamos una nueva rama la cual nos permite trabajar a gusto sin guardar en la stgae original despues ya podemos guardarlo.
 
-        * COMMIT
+        * COMMITTED o commit 
+            Esta significa que ya comprometimos nuestro trabajo a que pase el sieguiente proceso que es guardarlo en el sevidor de la nube.
+            El comando es (git commit -m "") en las comillas va el mensaje que tendra un sentido para que los otros developers de tu grupo lo entinedan.
+
         * SERVER
+            Es donde se guarda el/los archivo/s el cual nosotros estamos totalmente seguros que esta guardado sin negun fallos y teniendo en cuenta que ha pasado los cuatro pasos declarados anteriormente.
+            
