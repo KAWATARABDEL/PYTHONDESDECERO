@@ -1,0 +1,15 @@
+Para tener un fluljo de trabajo con git tenemos que seguir estos paso
+
+    PRIMERO TENEMOS 4 ETAPAS:
+        
+        * NUESTRO COMPUTADORA
+            En este podemos editar eliminar nuestros archvios los cambios que se relizan hay que confirmarlos en stage para asi tenga en cuenta lo que esta pasando.
+            pero si no queremos pues no hara falta.
+            esto se hace con el comando "git add" añadimos un archivo al stage.
+
+        * STAGE
+            es donde se guardan los archivos que nosotros etamos seguros que vamos a dejar pasar. 
+            Pero tambien los podemos eliminar se queremos o mejor creamos una nueva rama la cual nos permite trabajar a gusto sin guardar en la stgae original despues ya podemos guardarlo.
+
+        * COMMIT
+        * SERVER
