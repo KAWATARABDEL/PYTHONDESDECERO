@@ -79,5 +79,5 @@ remove : sirve para eliminar un elemento de la lista.
 pop    : sireve para eliminar el ultimo elemnto de la lista.
 *      : sirve para multiplicar un lista las veces que queramos *3 *4 etc... ."""
 
-print(coment)
+# print(coment)
 

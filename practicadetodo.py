@@ -37,4 +37,35 @@ if num1<=2:
 else:
     print("eres mayor de edad")
 
-#
+# practica hasta el ideo 9.
+
+print ("practicando el lunes 17 de abril del 2023")
+
+print("         LISTAS")
+lista=[1, 2, 3, 4, 5]
+print(lista[0:2])
+print(lista[:])
+print(lista[4])
+print(17 in lista)
+lista.append(6)
+print(lista[:])
+lista.insert(0, 8)
+print(lista[:])
+lista.extend([7, 9, 10, 11, 12])
+print(lista[:])
+
+lista.remove(12)
+print(lista[:])
+
+lista.pop()
+print(lista[:])
+
+lista1=[11, 12, 13, 14, 15]
+lista2=lista+lista1
+print(lista2)
+
+lista1=[11, 12, 13, 14, 15] * 3
+print(lista1[:])
+
+
+
